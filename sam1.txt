@@ -1,6 +1,6 @@
 1)this is remote file.
-<<<<<<< Updated upstream
+
 2)this is remote.
-=======
+
 edit from local.
->>>>>>> Stashed changes
+
